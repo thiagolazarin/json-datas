@@ -112,15 +112,12 @@
         },
 
         {
-            "tag": "hours",
+            "tag": "horas",
             "patterns": [
-                "when are you guys open?",
-                "what are your hours",
-                "hours operation"
+                "quando voces abrem?"
             ],
             "responses": [
-                "24/7",
-                "All day we dont stop"
+                "24 horas"
             ]
         },
 
@@ -265,17 +262,16 @@
         },
 
         {
-            "tag": "age",
+            "tag": "idade",
             "patterns": [
-                "how old",
-                "how old are you",
-                "what is your age",
-                "age?",
-                "how ols is bot"
+                "quantos anos",
+                "quantos anos vc tem?",
+                "qual e sua idade?",
+                "idade?"
             ],
             "responses": [
-                "I Have 17 years old",
-                "17 years"
+                "Eu tenho 21 anos",
+                "21 anos"
             ]
         },
 
@@ -860,31 +856,15 @@
         },
 
         {
-            "tag": "name",
+            "tag": "nome",
             "patterns": [
-                "what is your name",
-                "what should i call you?",
-                "whats your name?",
-                "who are you?",
-                "can you tell your name?"
+                "como e seu nome?",
+                "como posso te chamar?",
+                "quem e voce?"
             ],
             "responses": [
-                "You can call me ia robot",
-                "I'm ia robot"
-            ]
-        },
-        {
-            "tag": "shop",
-            "patterns": [
-                "id like to buy something",
-                "what are your products",
-                "what do you recommend",
-                "what are you selling?",
-                "you gonna buy?"
-            ],
-            "responses": [
-                "I have my book for sale",
-                "wow, i can sell you something"
+                "voce pode me chamar de Neymar",
+                "eu sou o Neymar"
             ]
         },
 
@@ -1039,38 +1019,36 @@
         },
 
         {
-            "tag": "greetings",
+            "tag": "apresentacao",
             "patterns": [
-                "hello",
+                "ola",
+                "oi",
                 "hey",
-                "Greetings",
-                "what's up",
-                "how is it going?",
-                "hi",
-                "good day"
+                "eai",
+                "bom dia",
+                "boa tarde",
+                "boa noite"
             ],
             "responses": [
-                "Hello!",
-                "Hey",
-                "What can i do for you?"
+                "Ola!",
+                "Eai",
+                "No que posso ajudar"
             ]
         },
 
         {
-            "tag": "goodbye",
+            "tag": "adeus",
             "patterns": [
-                "See you later",
-                "Goodbye",
-                "I am leaving",
-                "Have good day",
-                "Bye",
-                "cao",
-                "see ya"
+                "te vejo depois",
+                "adeus",
+                "estou indo embora.",
+                "tenha um bom dia",
+                "tchau"
             ],
             "responses": [
-                "Sad to see you go",
-                "Talk to you later",
-                "Goodbye!"
+                "ate mais",
+                "fale comigo mais tarde",
+                "adeus!"
             ]
         },
 
@@ -1133,89 +1111,64 @@
                 "Saida do Reino Unido da Uniao Europeia."
             ]
         },
-        
         {
-            "tag": "stocks",
+            "tag": "filmes",
             "patterns": [
-                "what stocks do i own",
-                "how are my shares",
-                "what i am doing"
+                "qual filme você tem para assistir?",
+                "filmes para assistir"
             ],
             "responses": [
-                "you own the following shres: aa",
-                "share etf"
+                "Eu tenho: homem aranha, batman, velozes e furiosos and interstellar",
+                "homem aranha, batman, velozes e furiosos and interstellar"
             ]
         },
         {
-            "tag": "movies",
-            "patterns": [
-                "which movie do you have to watch?",
-                "movies to watch?"
-            ],
-            "responses": [
-                "We have: spiderMan, batman, fast and furious and interstellar",
-                "spiderMan, batman, fast and furious and interstellar"
-            ]
-        },
-        {
-            "tag": "food",
+            "tag": "comida",
             "patterns":[
-                "i am hungry",
-                "what we have to eat?",
-                "i am starving",
-                "i would like to eat"
+                "estou com fome",
+                "o que tem para comer?",
+                "estou morrendo de fome",
+                "eu gostaria de comer"
             ],
             "responses":[
-                "unfortunately we have nothing to eat",
-                "you will starve",
-                "nothing."
+                "infelizmente nao tenho nada para voce comer",
+                "voce vai morrer de fome",
+                "nada."
             ]
         },
         {
-            "tag": "world Cup",
+            "tag": "copa do mundo",
             "patterns": [
-                "which country will win the world cup?",
-                "who will win?",
-                "world cup?"
+                "qual pais vai ganhar a copa do mundo?",
+                "quem ganha a copa?",
+                "copa do mundo?"
             ],
             "responses": [
-                "there is only one answer for you question: BRAZIL",
-                "of course it's Brazil",
-                "BRAZIL"
+                "so tem uma resposta para sua pergunta: BRASIL",
+                "claro que e o brasil",
+                "BRASIL"
             ]
         },
         {
-            "tag": "best player",
+            "tag": "melhor jogador",
             "patterns": [
-                "who is the best player in the world?",
-                "best player in the world?"
+                "quem e o melhor jogador do mundo?",
+                "melhor jogador do mundo?"
             ],
             "responses": [
-                "Messi.",
-                "of course its Messi"
+                "Neymar.",
+                "claro que e Neymar"
             ]
         },
         {
-            "tag": "phone",
+            "tag": "cidade",
             "patterns": [
-                "what is your cellphone model?",
-                "what cell phone are you using?"
-            ],
-            "responses": [
-                "my cell phone model is an iphone",
-                "i am using iphone 20",
-                "iphone"
-            ]
-        },
-        {
-            "tag": "city",
-            "patterns": [
-                "Which city do you live in?",
-                "where is your city?"
+                "de qual cidade voce e?",
+                "onde e sua cidade?"
             ],
             "responses": [
                 "Campinas",
-                "my city is in Campinas, sao paulo."
+                "MInha cidade e em campinas, sao paulo"
             ]
         }
     ]
