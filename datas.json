@@ -1,0 +1,1222 @@
+{
+    "intents": [
+        {   
+            "tag": "Patinhos",
+            "patterns": [
+                "O que o pato disse para a pata?"
+            ],
+            "responses": [
+                "Vem Qua!"
+            ]
+        },
+
+        {
+            "tag": "Alo?",
+            "patterns": [
+                "Porque o menino estava falando ao telefone deitado?"
+            ],
+            "responses": [
+                "Para nao cair a ligacao."
+            ]
+        },
+
+
+        {
+            "tag": "Amem",
+            "patterns": [
+                "Qual e a formula da agua benta?"
+            ],
+            "responses": [
+                " H Deus O!"
+            ]
+        },
+
+        {
+            "tag": "O pintinho e a mae",
+            "patterns": [
+                "O que o pintinho falou para a mae dele?"
+            ],
+            "responses": [
+                "Oi, mae!"
+            ]
+        },
+
+        {
+            "tag": "App de carros",
+            "patterns": [
+                "Qual e a cidade brasileira que nao tem taxi?"
+            ],
+            "responses": [
+                "Uberlandia."
+            ]
+        },
+
+        {
+            "tag": "App de carros",
+            "patterns": [
+                "Qual e a cidade brasileira que nao tem taxi?"
+            ],
+            "responses": [
+                "Uberlandia."
+            ]
+        },
+
+        {
+            "tag": "Love is in the Air",
+            "patterns": [
+                "O que o tijolo falou para o outro?"
+            ],
+            "responses": [
+                "Ha um ciumento entre nos."
+            ]
+        },
+
+        {
+            "tag": "Boletim escolar",
+            "patterns": [
+                "Porque o jacare tirou o filho da escola?"
+            ],
+            "responses": [
+                "Porque ele reptil de ano."
+            ]
+        },
+
+        {
+            "tag": "Alo, Batman?",
+            "patterns": [
+                "Porque o Batman colocou o Bat-movel no seguro?"
+            ],
+            "responses": [
+                "Porque ele tem medo que Robin!"
+            ]
+        },
+
+        {
+            "tag": "Vo do role!",
+            "patterns": [
+                "Quem e a vo dos trigos?"
+            ],
+            "responses": [
+                "Aveia Quacker!"
+            ]
+        },
+
+        {
+            "tag": "bencao!",
+            "patterns": [
+                "Qual e o alimento mais sagrado que existe?"
+            ],
+            "responses": [
+                "O amem doim."
+            ]
+        },
+
+        {
+            "tag": "hours",
+            "patterns": [
+                "when are you guys open?",
+                "what are your hours",
+                "hours operation"
+            ],
+            "responses": [
+                "24/7",
+                "All day we dont stop"
+            ]
+        },
+
+        {
+            "tag": "Nada de bebes",
+            "patterns": [
+                "Por que o radio nao pode ter filhos?"
+            ],
+            "responses": [
+                "Porque ele e estereo."
+            ]
+        },
+
+        {
+            "tag": "Higienico",
+            "patterns": [
+                "Por que o policial nao usa sabao?"
+            ],
+            "responses": [
+                "Porque ele prefere deter gente."
+            ]
+        },
+
+        {
+            "tag": "Para os fas de Beatles",
+            "patterns": [
+                "O que o padeiro falou para o John Lennon?"
+            ],
+            "responses": [
+                "O sonho acabou."
+            ]
+        },
+
+        {
+            "tag": "Silencio",
+            "patterns": [
+                "Por que a planta nao responde?"
+            ],
+            "responses": [
+                "Porque ela e mudinha."
+            ]
+        },
+
+        {
+            "tag": "Trem maluco",
+            "patterns": [
+                "Qual a fruta que anda de trem?"
+            ],
+            "responses": [
+                "O kiwiiiii."
+            ]
+        },
+
+        {
+            "tag": "Para os fas de animes e mangas",
+            "patterns": [
+                "O que e um astrologo andando a cavalo?"
+            ],
+            "responses": [
+                "Um Cavaleiro do Zodiaco."
+            ]
+        },
+
+        {
+            "tag": "Iguaria da culinaria",
+            "patterns": [
+                "Como se faz omelete de chocolate?"
+            ],
+            "responses": [
+                "Com ovos de pascoa."
+            ]
+        },
+
+        {
+            "tag": "Piadas cientificas",
+            "patterns": [
+                "O que um cromossomo falou para o outro?"
+            ],
+            "responses": [
+                "Cromossomos bonitos!"
+            ]
+        },
+
+        {
+            "tag": "Voando",
+            "patterns": [
+                "O que e um pontinho preto no aviao?"
+            ],
+            "responses": [
+                "Uma aeromosca."
+            ]
+        },
+
+        {
+            "tag": "A internet do mineiro",
+            "patterns": [
+                "Como que o mineiro usa a internet?"
+            ],
+            "responses": [
+                "Pelo UAI-fai"
+            ]
+        },
+
+        {
+            "tag": "Eita",
+            "patterns": [
+                "Qual e a galinha que cai no chao e surta?"
+            ],
+            "responses": [
+                "A galinha cai i pira."
+            ]
+        },
+
+        {
+            "tag": "Tudo bom, Batman?",
+            "patterns": [
+                "Como o Batman faz para entrar na Bat-caverna?"
+            ],
+            "responses": [
+                "Ele bat-palma."
+            ]
+        },
+
+        {
+            "tag": "Laguinho e Padaria",
+            "patterns": [
+                "Qual e a diferenca do lago e da padaria?"
+            ],
+            "responses": [
+                "No lago ha sapinho e na padaria assa pao."
+            ]
+        },
+
+        {
+            "tag": "Opa, caiu!",
+            "patterns": [
+                "Qual e o melhor tratamento para pessoas que sofrem de queda constante?"
+            ],
+            "responses": [
+                "Para-quedismo."
+            ]
+        },
+
+        {
+            "tag": "age",
+            "patterns": [
+                "how old",
+                "how old are you",
+                "what is your age",
+                "age?",
+                "how ols is bot"
+            ],
+            "responses": [
+                "I Have 17 years old",
+                "17 years"
+            ]
+        },
+
+        {
+            "tag": "Afundou",
+            "patterns": [
+                "Um tenis foi jogado ao mar e afundou. Qual o nome do filme?"
+            ],
+            "responses": [
+                "Titanike."
+            ]
+        },
+
+        {
+            "tag": "Doguinho perdido",
+            "patterns": [
+                "Um menino tinha um cachorro chamado Tido e ele dormia em um cesto. Um dia, o cachorrinho fugiu, qual e o nome do filme?"
+            ],
+            "responses": [
+                "O Cesto sem Tido."
+            ]
+        },
+
+        {
+            "tag": "Tchau, Hulk",
+            "patterns": [
+                "Por que a mulher do Hulk se divorciou dele?"
+            ],
+            "responses": [
+                "Porque ela queria um homem mais maduro"
+            ]
+        },
+
+        {
+            "tag": "Construindo",
+            "patterns": [
+                "Qual e o tio da construcao?"
+            ],
+            "responses": [
+                "O Tio Jolo"
+            ]
+        },
+
+        {
+            "tag": "Alcool",
+            "patterns": [
+                "O que um alcool disse para outro alcool?"
+            ],
+            "responses": [
+                "Etanois!"
+            ]
+        },
+
+        {
+            "tag": "Pulou!",
+            "patterns": [
+                "O que e uma pulga do lado de uma letra A?"
+            ],
+            "responses": [
+                "Um A saltante.!"
+            ]
+        },
+
+        {
+            "tag": "Frangos",
+            "patterns": [
+                "O que o advogado do frango foi fazer na delegacia?"
+            ],
+            "responses": [
+                "Foi soltar a franga!"
+            ]
+        },
+
+        {
+            "tag": "Piadas matematicas",
+            "patterns": [
+                "Um triangulo estava voando e o outro nao. Por que?"
+            ],
+            "responses": [
+                "Porque um deles era uma asa delta."
+            ]
+        },
+
+        {
+            "tag": "Cachorros e predios",
+            "patterns": [
+                "Que raca de cachorro pula mais alto que um predio?"
+            ],
+            "responses": [
+                "Qualquer uma, porque predio nao pula."
+            ]
+        },
+
+        {
+            "tag": "Soneca",
+            "patterns": [
+                "Como que o Batman dorme?"
+            ],
+            "responses": [
+                "De bruce!"
+            ]
+        },
+
+        {
+            "tag": "Problema de comunicacao",
+            "patterns": [
+                "Por que o pao nao entende a batata?"
+            ],
+            "responses": [
+                "Porque o pao e frances e a batata e inglesa"
+            ]
+        },
+
+        {
+            "tag": "Astronomos, essa e para voces!",
+            "patterns": [
+                "Por que as estrelas nao podem ser gatos?"
+            ],
+            "responses": [
+                "Porque astro nao mia"
+            ]
+        },
+
+        {
+            "tag": "Coalas",
+            "patterns": [
+                "Porque coalas nao sao ursos de verdade?"
+            ],
+            "responses": [
+                "Porque eles nao tem coalaificacao."
+            ]
+        },
+
+        {
+            "tag": "Ih, rapaz?",
+            "patterns": [
+                "O que a zebra disse para a mosca?"
+            ],
+            "responses": [
+                "Voce esta na minha listra negra"
+            ]
+        },
+
+        {
+            "tag": "Dancando",
+            "patterns": [
+                "Quem sao as dancarinas do Diabo?"
+            ],
+            "responses": [
+                "As Diabetes."
+            ]
+        },
+
+        {
+            "tag": "Vamos nadar",
+            "patterns": [
+                "Sabe por que o rapaz jogou o computador no mar?"
+            ],
+            "responses": [
+                "Para ele navegar na internet!"
+            ]
+        },
+
+        {
+            "tag": "Internacional",
+            "patterns": [
+                "Por que na Argentina as vacas vivem olhando para o ceu?"
+            ],
+            "responses": [
+                "Porque tem boi nos ares!"
+            ]
+        },
+
+        {
+            "tag": "Aquela do leite",
+            "patterns": [
+                "Dois litros de leite atravessaram a rua e foram atropelados. Um morreu, o outro nao. Por que?"
+            ],
+            "responses": [
+                "Porque um deles era leite longa vida!"
+            ]
+        },
+
+        {
+            "tag": "Dora, a aventureira",
+            "patterns": [
+                "Por que a Dora aventureira aprendeu capoeira?"
+            ],
+            "responses": [
+                "Para ela dar uma voa-Dora."
+            ]
+        },
+
+        {
+            "tag": "Passarinhos",
+            "patterns": [
+                "O que tem 4 patas e voa?"
+            ],
+            "responses": [
+                "Um casal de passarinhos"
+            ]
+        },
+
+        {
+            "tag": "Saudades, Nemo",
+            "patterns": [
+                "O que o tubarao disse quando comeu o peixe-palhaco?"
+            ],
+            "responses": [
+                "Que gosto engracado!"
+            ]
+        },
+
+        {
+            "tag": "Bu!",
+            "patterns": [
+                "Por que o fantasma entrou no elevador?"
+            ],
+            "responses": [
+                "Para elevar o espirito."
+            ]
+        },
+
+        {
+            "tag": "Esta servido?",
+            "patterns": [
+                "O que o prato disse para o outro?"
+            ],
+            "responses": [
+                "Esta noite, o jantar e comigo!"
+            ]
+        },
+
+        {
+            "tag": "E o meu numero",
+            "patterns": [
+                "O que o zero disse para o oito?"
+            ],
+            "responses": [
+                "Belo cinto!"
+            ]
+        },
+
+        {
+            "tag": "Uma fria",
+            "patterns": [
+                "Onde os ursos polares guardam o seu dinheiro?"
+            ],
+            "responses": [
+                "Em um banco de neve."
+            ]
+        },
+
+        {
+            "tag": "Carga pesada",
+            "patterns": [
+                "Por que os eletrons nunca sao convidados para festas?"
+            ],
+            "responses": [
+                "Porque eles sao muito negativos."
+            ]
+        },
+
+        {
+            "tag": "De outro mundo",
+            "patterns": [
+                "O que pediu o astronauta claustrofobico?"
+            ],
+            "responses": [
+                "Um pouco de espaco."
+            ]
+        },
+
+        {
+            "tag": "Sangue",
+            "patterns": [
+                "Normalmente, quantos litros de sangue uma pessoa tem? Em media, quantos sao retirados numa doacao de sangue?"
+            ],
+            "responses": [
+                "Entre 4 a 6 litros. Sao retirados 450 mililitros"
+            ]
+        },
+
+        {
+            "tag": "frase",
+            "patterns": [
+                "De quem e a famosa frase ?Penso, logo existo??"
+            ],
+            "responses": [
+                "Descartes."
+            ]
+        },
+
+        {
+            "tag": "chuveiro",
+            "patterns": [
+                "De onde e a invencao do chuveiro eletrico?"
+            ],
+            "responses": [
+                "Brasil."
+            ]
+        },
+
+        {
+            "tag": "pais",
+            "patterns": [
+                "Quais o menor e o maior pais do mundo?"
+            ],
+            "responses": [
+                "Vaticano e Russia."
+            ]
+        },
+
+        {
+            "tag": "pais",
+            "patterns": [
+                "Quais o menor e o maior pais do mundo?"
+            ],
+            "responses": [
+                "Vaticano e Russia."
+            ]
+        },
+
+        {
+            "tag": "presidente",
+            "patterns": [
+                "Qual o nome do presidente do Brasil que ficou conhecido como Jango?"
+            ],
+            "responses": [
+                "Joao Goulart."
+            ]
+        },
+
+        {
+            "tag": "livro",
+            "patterns": [
+                "Qual o livro mais vendido no mundo a seguir a Biblia?"
+            ],
+            "responses": [
+                "Dom Quixote."
+            ]
+        },
+
+        {
+            "tag": "pi",
+            "patterns": [
+                "Quantas casas decimais tem o numero pi?"
+            ],
+            "responses": [
+                "Infinitas."
+            ]
+        },
+
+        {
+            "tag": "tabela periodica",
+            "patterns": [
+                "Atualmente, quantos elementos quimicos a tabela periodica possui?"
+            ],
+            "responses": [
+                "118."
+            ]
+        },
+
+        {
+            "tag": "expectativa de vida",
+            "patterns": [
+                "Quais os paises que tem a maior e a menor expectativa de vida do mundo?"
+            ],
+            "responses": [
+                "Japao e Serra Leoa."
+            ]
+        },
+
+        {
+            "tag": "numero minimo futebol",
+            "patterns": [
+                "Qual o numero minimo de jogadores em cada time numa partida de futebol?"
+            ],
+            "responses": [
+                "7"
+            ]
+        },
+
+        {
+            "tag": "Guernica",
+            "patterns": [
+                "Quem pintou Guernica?"
+            ],
+            "responses": [
+                "Pablo Picasso."
+            ]
+        },
+
+        {
+            "tag": "Sol",
+            "patterns": [
+                "Quanto tempo a luz do Sol demora para chegar a Terra?"
+            ],
+            "responses": [
+                "8 minutos."
+            ]
+        },
+
+        {
+            "tag": "CheGuevara",
+            "patterns": [
+                "Qual a nacionalidade de Che Guevara?"
+            ],
+            "responses": [
+                "Argentina."
+            ]
+        },
+
+        {
+            "tag": "personagens",
+            "patterns": [
+                "Qual personagem folclorico costuma ser agradado pelos cacadores com a oferta de fumo?"
+            ],
+            "responses": [
+                "Caipora."
+            ]
+        },
+
+        {
+            "tag": "pre-historia",
+            "patterns": [
+                "Em que periodo da pre-historia o fogo foi descoberto?"
+            ],
+            "responses": [
+                "aleolitico."
+            ]
+        },
+
+        {
+            "tag": "montanha",
+            "patterns": [
+                "Qual a montanha mais alta do Brasil?"
+            ],
+            "responses": [
+                "Pico da Neblina."
+            ]
+        },
+
+        {
+            "tag": "portugues",
+            "patterns": [
+                "Em qual local da Asia o portugues e lingua oficial?"
+            ],
+            "responses": [
+                "Macau."
+            ]
+        },
+
+        {
+            "tag": "o principe",
+            "patterns": [
+                "Quem e o autor de O Principe?"
+            ],
+            "responses": [
+                "Maquiavel."
+            ]
+        },
+
+        {
+            "tag": "origem",
+            "patterns": [
+                "Qual foi o recurso utilizado inicialmente pelo homem para explicar a origem das coisas?"
+            ],
+            "responses": [
+                "A Mitologia."
+            ]
+        },
+
+        {
+            "tag": "aleijadinho",
+            "patterns": [
+                "Qual era o nome de Aleijadinho?"
+            ],
+            "responses": [
+                "Antonio Francisco Lisboa."
+            ]
+        },
+
+        {
+            "tag": "deuses gregos",
+            "patterns": [
+                "Jupiter e Plutao sao os correlatos romanos de quais deuses gregos?"
+            ],
+            "responses": [
+                "Zeus e Hades."
+            ]
+        },
+
+        {
+            "tag": "maior animal terrestre",
+            "patterns": [
+                "Qual o maior animal terrestre?"
+            ],
+            "responses": [
+                "Elefante africano."
+            ]
+        },
+
+        {
+            "tag": "Martin Luther King",
+            "patterns": [
+                "Qual o tema do famoso discurso Eu Tenho um Sonho, de Martin Luther King?"
+            ],
+            "responses": [
+                "Igualdade das racas."
+            ]
+        },
+
+        {
+            "tag": "Dama de ferro",
+            "patterns": [
+                "Que lider mundial ficou conhecida como ?Dama de Ferro??"
+            ],
+            "responses": [
+                "Margaret Thatcher."
+            ]
+        },
+
+        {
+            "tag": "tres magos",
+            "patterns": [
+                "Quais os nomes dos tres Reis Magos?"
+            ],
+            "responses": [
+                "Belchior, Gaspar e Baltazar"
+            ]
+        },
+
+        {
+            "tag": "principais heteronimos",
+            "patterns": [
+                "Quais os principais heteronimos de Fernando Pessoa?"
+            ],
+            "responses": [
+                "Alberto Caeiro, Ricardo Reis e Alvaro de Campos."
+            ]
+        },
+
+        {
+            "tag": "religiao monoteista",
+            "patterns": [
+                "Qual a religiao monoteista que conta com o maior numero de adeptos no mundo?"
+            ],
+            "responses": [
+                "Cristianismo."
+            ]
+        },
+
+        {
+            "tag": "cientista descobriu",
+            "patterns": [
+                "Qual o nome do cientista que descobriu o processo de pasteurizacao e a vacina contra a raiva?"
+            ],
+            "responses": [
+                "Louis Pasteur."
+            ]
+        },
+
+        {
+            "tag": "tipos sanguineo",
+            "patterns": [
+                "As pessoas de qual tipo sanguineo sao consideradas doadores universais?"
+            ],
+            "responses": [
+                "Tipo O."
+            ]
+        },
+
+        {
+            "tag": "cromossomos",
+            "patterns": [
+                "Quais sao os cromossomos que determinam o sexo masculino?"
+            ],
+            "responses": [
+                "Os Y."
+            ]
+        },
+
+        {
+            "tag": "name",
+            "patterns": [
+                "what is your name",
+                "what should i call you?",
+                "whats your name?",
+                "who are you?",
+                "can you tell your name?"
+            ],
+            "responses": [
+                "You can call me ia robot",
+                "I'm ia robot"
+            ]
+        },
+        {
+            "tag": "shop",
+            "patterns": [
+                "id like to buy something",
+                "what are your products",
+                "what do you recommend",
+                "what are you selling?",
+                "you gonna buy?"
+            ],
+            "responses": [
+                "I have my book for sale",
+                "wow, i can sell you something"
+            ]
+        },
+
+        {
+            "tag": "sydney",
+            "patterns": [
+                "Em que estado australiano fica situada a cidade de Sydney?"
+            ],
+            "responses": [
+                "Nova Gales do Sul."
+            ]
+        },
+
+        {
+            "tag": "Romulo e Remo",
+            "patterns": [
+                "Quem amamentou os gemeos Romulo e Remo?"
+            ],
+            "responses": [
+                "uma loba."
+            ]
+        },
+
+        {
+            "tag": "famoso edificio frances",
+            "patterns": [
+                "No exterior de que famoso edificio frances foi construida uma enorme piramide de vidro em 1989?"
+            ],
+            "responses": [
+                "Museu do Louvre."
+            ]
+        },
+
+        {
+            "tag": "vasos transportam sangue",
+            "patterns": [
+                "Como se chamam os vasos que transportam sangue do coracao para a periferia do corpo?"
+            ],
+            "responses": [
+                "arterias."
+            ]
+        },
+
+        {
+            "tag": "animal gruguleja",
+            "patterns": [
+                "Que animal gruguleja?"
+            ],
+            "responses": [
+                "o peru."
+            ]
+        },
+
+        {
+            "tag": "maior arquipelago",
+            "patterns": [
+                "Qual e o maior arquipelago da Terra?"
+            ],
+            "responses": [
+                "A Indonesia."
+            ]
+        },
+
+        {
+            "tag": "substancia plantas",
+            "patterns": [
+                "Que substancia e absorvida pelas plantas e expirada por todos os seres vivos?"
+            ],
+            "responses": [
+                "dioxido de carbono."
+            ]
+        },
+
+        {
+            "tag": "Madasgascar",
+            "patterns": [
+                "Em que oceano fica Madagascar?"
+            ],
+            "responses": [
+                "Oceano Indico."
+            ]
+        },
+
+        {
+            "tag": "artista conhecido",
+            "patterns": [
+                "Que artista e conhecido como um dos expoentes maximos do Ready-Mades?"
+            ],
+            "responses": [
+                "Marcel Duchamp."
+            ]
+        },
+
+        {
+            "tag": "peste bubonica?",
+            "patterns": [
+                "Em que seculo o continente europeu foi devastado pela peste bubonica?"
+            ],
+            "responses": [
+                "No seculo XIV."
+            ]
+        },
+
+        {
+            "tag": "viveu",
+            "patterns": [
+                "Quem viveu, segundo a Biblia, 969 anos?"
+            ],
+            "responses": [
+                "Matusalem."
+            ]
+        },
+
+        {
+            "tag": "Eco-92",
+            "patterns": [
+                "Em que cidade ocorreu a Eco-92, a Conferencia das Nacoes Unidas sobre ambiente e desenvolvimento?"
+            ],
+            "responses": [
+                "Rio de Janeiro."
+            ]
+        },
+
+        {
+            "tag": "capela sistina",
+            "patterns": [
+                "Quem pintou o teto da capela sistina?"
+            ],
+            "responses": [
+                "Michelangelo."
+            ]
+        },
+
+        {
+            "tag": "tragedia grega",
+            "patterns": [
+                "Quem foi o criador da tragedia grega?"
+            ],
+            "responses": [
+                "Esquilo."
+            ]
+        },
+
+        {
+            "tag": "vocalista",
+            "patterns": [
+                "Jim Morrison era vocalista de que grupo?"
+            ],
+            "responses": [
+                "The Doors."
+            ]
+        },
+
+        {
+            "tag": "greetings",
+            "patterns": [
+                "hello",
+                "hey",
+                "Greetings",
+                "what's up",
+                "how is it going?",
+                "hi",
+                "good day"
+            ],
+            "responses": [
+                "Hello!",
+                "Hey",
+                "What can i do for you?"
+            ]
+        },
+
+        {
+            "tag": "goodbye",
+            "patterns": [
+                "See you later",
+                "Goodbye",
+                "I am leaving",
+                "Have good day",
+                "Bye",
+                "cao",
+                "see ya"
+            ],
+            "responses": [
+                "Sad to see you go",
+                "Talk to you later",
+                "Goodbye!"
+            ]
+        },
+
+        {
+            "tag": "presidente brasil",
+            "patterns": [
+                "Em que ano e quem foi eleito o primeiro presidente do Brasil?"
+            ],
+            "responses": [
+                "Deodoro da Fonseca."
+            ]
+        },
+
+        {
+            "tag": "Clarice Lispector",
+            "patterns": [
+                "Em que pais nasceu Clarice Lispector?"
+            ],
+            "responses": [
+                "Ucrania."
+            ]
+        },
+
+        {
+            "tag": "filantropo",
+            "patterns": [
+                "O que e filantropo?"
+            ],
+            "responses": [
+                "Pessoa que pratica a caridade."
+            ]
+        },
+
+        {
+            "tag": "acidente aereo",
+            "patterns": [
+                "Em que ano e onde aconteceu o maior acidente aereo da historia do Brasil?"
+            ],
+            "responses": [
+                "Ano 2007, em Sao Paulo."
+            ]
+        },
+
+        {
+            "tag": "testes nucleares",
+            "patterns": [
+                "Que pais tem realizado testes nucleares e, em 2017, ameacou principalmente os Estados Unidos da America?"
+            ],
+            "responses": [
+                "Coreia do Norte."
+            ]
+        },
+
+        {
+            "tag": "Brexit",
+            "patterns": [
+                "O que e Brexit?"
+            ],
+            "responses": [
+                "Saida do Reino Unido da Uniao Europeia."
+            ]
+        },
+        
+        {
+            "tag": "stocks",
+            "patterns": [
+                "what stocks do i own",
+                "how are my shares",
+                "what i am doing"
+            ],
+            "responses": [
+                "you own the following shres: aa",
+                "share etf"
+            ]
+        },
+        {
+            "tag": "movies",
+            "patterns": [
+                "which movie do you have to watch?",
+                "movies to watch?"
+            ],
+            "responses": [
+                "We have: spiderMan, batman, fast and furious and interstellar",
+                "spiderMan, batman, fast and furious and interstellar"
+            ]
+        },
+        {
+            "tag": "food",
+            "patterns":[
+                "i am hungry",
+                "what we have to eat?",
+                "i am starving",
+                "i would like to eat"
+            ],
+            "responses":[
+                "unfortunately we have nothing to eat",
+                "you will starve",
+                "nothing."
+            ]
+        },
+        {
+            "tag": "world Cup",
+            "patterns": [
+                "which country will win the world cup?",
+                "who will win?",
+                "world cup?"
+            ],
+            "responses": [
+                "there is only one answer for you question: BRAZIL",
+                "of course it's Brazil",
+                "BRAZIL"
+            ]
+        },
+        {
+            "tag": "best player",
+            "patterns": [
+                "who is the best player in the world?",
+                "best player in the world?"
+            ],
+            "responses": [
+                "Messi.",
+                "of course its Messi"
+            ]
+        },
+        {
+            "tag": "phone",
+            "patterns": [
+                "what is your cellphone model?",
+                "what cell phone are you using?"
+            ],
+            "responses": [
+                "my cell phone model is an iphone",
+                "i am using iphone 20",
+                "iphone"
+            ]
+        },
+        {
+            "tag": "city",
+            "patterns": [
+                "Which city do you live in?",
+                "where is your city?"
+            ],
+            "responses": [
+                "Campinas",
+                "my city is in Campinas, sao paulo."
+            ]
+        }
+    ]
+}
